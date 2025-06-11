@@ -1,1 +1,1 @@
-# SalonIQ
+# BookingIQ
